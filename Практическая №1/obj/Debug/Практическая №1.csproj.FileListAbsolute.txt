@@ -1,0 +1,45 @@
+H:\ТРПО\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csprojAssemblyReference.cache
+H:\ТРПО\Практическая №1\Практическая №1\obj\Debug\App.g.cs
+H:\ТРПО\Практическая №1\Практическая №1\obj\Debug\Практическая №1_MarkupCompile.cache
+H:\ТРПО\Практическая №1\Практическая №1\bin\Debug\Практическая №1.exe.config
+H:\ТРПО\Практическая №1\Практическая №1\bin\Debug\Практическая №1.exe
+H:\ТРПО\Практическая №1\Практическая №1\bin\Debug\Практическая №1.pdb
+H:\ТРПО\Практическая №1\Практическая №1\obj\Debug\MainWindow.baml
+H:\ТРПО\Практическая №1\Практическая №1\obj\Debug\MainWindow.g.cs
+H:\ТРПО\Практическая №1\Практическая №1\obj\Debug\Практическая №1.g.resources
+H:\ТРПО\Практическая №1\Практическая №1\obj\Debug\Практическая__1.Properties.Resources.resources
+H:\ТРПО\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csproj.GenerateResource.cache
+H:\ТРПО\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csproj.CoreCompileInputs.cache
+H:\ТРПО\Практическая №1\Практическая №1\obj\Debug\Практическая №1.exe
+H:\ТРПО\Практическая №1\Практическая №1\obj\Debug\Практическая №1.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\bin\Debug\Практическая №1.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\bin\Debug\Практическая №1.exe
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\bin\Debug\Практическая №1.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\MainWindow.baml
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\MainWindow.g.cs
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\App.g.cs
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1_MarkupCompile.cache
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.g.resources
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая__1.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.exe
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.pdb
+H:\Рабочий стол\Практическая №1\Практическая №1\bin\Debug\Практическая №1.exe.config
+H:\Рабочий стол\Практическая №1\Практическая №1\bin\Debug\Практическая №1.exe
+H:\Рабочий стол\Практическая №1\Практическая №1\bin\Debug\Практическая №1.pdb
+H:\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csprojAssemblyReference.cache
+H:\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\MainWindow.baml
+H:\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\MainWindow.g.cs
+H:\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\App.g.cs
+H:\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1_MarkupCompile.cache
+H:\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.g.resources
+H:\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая__1.Properties.Resources.resources
+H:\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csproj.GenerateResource.cache
+H:\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csproj.CoreCompileInputs.cache
+H:\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.exe
+H:\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.pdb
+H:\Рабочий стол\Практическая №1\Практическая №1\bin\Debug\MathParser.org-mXparser.dll
+H:\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csproj.CopyComplete
+C:\Users\vodya\OneDrive\Рабочий стол\Практическая №1\Практическая №1\obj\Debug\Практическая №1.csproj.CopyComplete
